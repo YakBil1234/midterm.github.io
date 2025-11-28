@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-    background-image: url("../IMAGES/OPTIMIZED/Background1_Optimized.jpg");
+    background-image: url("Background1_Optimized.jpg");
     background-size: cover;
     font-family: Cooperblack, corbiel, Arial, Helvetica, sans-serif;
     margin: 0; 
@@ -234,4 +234,5 @@ color: #000000;
 .footer {
     text-align: center
         
+
 }
